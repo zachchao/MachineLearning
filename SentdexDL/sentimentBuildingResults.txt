@@ -1,0 +1,590 @@
+25
+
+Generating data for ETHBTC
+0.944949494949495  percent rose
+0.05505050505050505  percent fell
+17010 810
+
+Generating data for LTCBTC
+0.44826038159371495  percent rose
+0.551739618406285  percent fell
+17010 810
+
+Generating data for BNBBTC
+0.7021324354657688  percent rose
+0.2978675645342312  percent fell
+17010 810
+
+Generating data for NEOBTC
+0.9132435465768799  percent rose
+0.08675645342312009  percent fell
+17010 810
+
+Generating data for QTUMETH
+0.49753086419753084  percent rose
+0.5024691358024691  percent fell
+17010 810
+
+Generating data for EOSETH
+0.5463524130190797  percent rose
+0.45364758698092034  percent fell
+17010 810
+
+Generating data for SNTETH
+0.5884399551066217  percent rose
+0.4115600448933782  percent fell
+17010 810
+
+Generating data for BNTETH
+0.48092031425364756  percent rose
+0.5190796857463524  percent fell
+17010 810
+
+Generating data for BCCBTC
+0.8562850729517396  percent rose
+0.1437149270482604  percent fell
+17010 810
+
+Generating data for GASBTC
+0.8460157126823793  percent rose
+0.15398428731762065  percent fell
+17010 810
+
+Generating data for BNBETH
+0.7040965207631874  percent rose
+0.2959034792368126  percent fell
+17010 810
+
+Generating data for BTCUSDT
+0.8132435465768799  percent rose
+0.18675645342312008  percent fell
+17010 810
+
+Generating data for ETHUSDT
+0.7772166105499438  percent rose
+0.22278338945005613  percent fell
+17010 810
+
+Generating data for HSRBTC
+0.9079124579124579  percent rose
+0.09208754208754209  percent fell
+17010 810
+
+Generating data for OAXETH
+0.35190796857463524  percent rose
+0.6480920314253648  percent fell
+17010 810
+
+Generating data for DNTETH
+0.6689674523007856  percent rose
+0.33103254769921436  percent fell
+17010 810
+
+Generating data for MCOETH
+0.642648709315376  percent rose
+0.357351290684624  percent fell
+17010 810
+
+Generating data for ICNETH
+0.784736251402918  percent rose
+0.21526374859708194  percent fell
+17010 810
+
+Generating data for MCOBTC
+0.9103254769921436  percent rose
+0.08967452300785635  percent fell
+17010 810
+
+Generating data for WTCBTC
+0.5865319865319866  percent rose
+0.4134680134680135  percent fell
+17010 810
+
+Generating data for WTCETH
+0.6445566778900113  percent rose
+0.3554433221099888  percent fell
+17010 810
+
+Generating data for LRCBTC
+0.940628507295174  percent rose
+0.059371492704826036  percent fell
+17010 810
+
+Generating data for LRCETH
+0.9109988776655443  percent rose
+0.08900112233445567  percent fell
+17010 810
+
+Generating data for QTUMBTC
+0.5378787878787878  percent rose
+0.4621212121212121  percent fell
+17010 810
+
+Generating data for YOYOBTC
+0.5807519640852974  percent rose
+0.41924803591470255  percent fell
+17010 810
+
+Generating data for OMGBTC
+0.7078563411896746  percent rose
+0.2921436588103255  percent fell
+17010 810
+
+Generating data for OMGETH
+0.6778338945005612  percent rose
+0.32216610549943886  percent fell
+17010 810
+
+Generating data for ZRXBTC
+0.5158249158249159  percent rose
+0.4841750841750842  percent fell
+17010 810
+
+Generating data for ZRXETH
+0.527665544332211  percent rose
+0.472334455667789  percent fell
+17010 810
+
+Generating data for STRATBTC
+0.8803591470258136  percent rose
+0.1196408529741863  percent fell
+17010 810
+
+['E', 'T', 'H', 'B', 'T', 'C', 'L', 'T', 'C', 'B', 'T', 'C', 'B', 'N', 'B', 'B', 'T', 'C', 'N', 'E', 'O', 'B', 'T', 'C', 'Q', 'T', 'U', 'M', 'E', 'T', 'H', 'E', 'O', 'S', 'E', 'T', 'H', 'S', 'N', 'T', 'E', 'T', 'H', 'B', 'N', 'T', 'E', 'T', 'H', 'B', 'C', 'C', 'B', 'T', 'C', 'G', 'A', 'S', 'B', 'T', 'C', 'B', 'N', 'B', 'E', 'T', 'H', 'B', 'T', 'C', 'U', 'S', 'D', 'T', 'E', 'T', 'H', 'U', 'S', 'D', 'T', 'H', 'S', 'R', 'B', 'T', 'C', 'O', 'A', 'X', 'E', 'T', 'H', 'D', 'N', 'T', 'E', 'T', 'H', 'M', 'C', 'O', 'E', 'T', 'H', 'I', 'C', 'N', 'E', 'T', 'H', 'M', 'C', 'O', 'B', 'T', 'C', 'W', 'T', 'C', 'B', 'T', 'C', 'W', 'T', 'C', 'E', 'T', 'H', 'L', 'R', 'C', 'B', 'T', 'C', 'L', 'R', 'C', 'E', 'T', 'H', 'Q', 'T', 'U', 'M', 'B', 'T', 'C', 'Y', 'O', 'Y', 'O', 'B', 'T', 'C', 'O', 'M', 'G', 'B', 'T', 'C', 'O', 'M', 'G', 'E', 'T', 'H', 'Z', 'R', 'X', 'B', 'T', 'C', 'Z', 'R', 'X', 'E', 'T', 'H', 'S', 'T', 'R', 'A', 'T', 'B', 'T', 'C']
+[Finished in 5595.7s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+Generating data for ETHBTC
+0.2059483726150393  percent rose
+0.7940516273849607  percent fell
+17010 810
+
+Generating data for LTCBTC
+0.8655443322109989  percent rose
+0.13445566778900112  percent fell
+17010 810
+
+Generating data for BNBBTC
+0.15970819304152636  percent rose
+0.8402918069584736  percent fell
+17010 810
+
+Generating data for NEOBTC
+0.17210998877665545  percent rose
+0.8278900112233446  percent fell
+17010 810
+
+Generating data for QTUMETH
+0.8217732884399551  percent rose
+0.17822671156004488  percent fell
+17010 810
+
+Generating data for EOSETH
+0.33613916947250283  percent rose
+0.6638608305274972  percent fell
+17010 810
+
+Generating data for SNTETH
+0.9519079685746352  percent rose
+0.04809203142536476  percent fell
+17010 810
+
+Generating data for BNTETH
+0.4792368125701459  percent rose
+0.5207631874298541  percent fell
+17010 810
+
+Generating data for BCCBTC
+0.4219977553310887  percent rose
+0.5780022446689114  percent fell
+17010 810
+
+Generating data for GASBTC
+0.26964085297418633  percent rose
+0.7303591470258137  percent fell
+17010 810
+
+Generating data for BNBETH
+0.1463524130190797  percent rose
+0.8536475869809204  percent fell
+17010 810
+
+Generating data for BTCUSDT
+0.524354657687991  percent rose
+0.475645342312009  percent fell
+17010 810
+
+Generating data for ETHUSDT
+0.4051627384960718  percent rose
+0.5948372615039281  percent fell
+17010 810
+
+Generating data for HSRBTC
+0.44377104377104376  percent rose
+0.5562289562289562  percent fell
+17010 810
+
+Generating data for OAXETH
+0.7320426487093153  percent rose
+0.2679573512906846  percent fell
+17010 810
+
+Generating data for DNTETH
+0.6666105499438832  percent rose
+0.3333894500561167  percent fell
+17010 810
+
+Generating data for MCOETH
+0.5575196408529742  percent rose
+0.4424803591470258  percent fell
+17010 810
+
+Generating data for ICNETH
+0.9120089786756453  percent rose
+0.08799102132435466  percent fell
+17010 810
+
+Generating data for MCOBTC
+0.30937149270482606  percent rose
+0.690628507295174  percent fell
+17010 810
+
+Generating data for WTCBTC
+0.12996632996632998  percent rose
+0.87003367003367  percent fell
+17010 810
+
+Generating data for WTCETH
+0.16464646464646465  percent rose
+0.8353535353535354  percent fell
+17010 810
+
+Generating data for LRCBTC
+0.3370931537598204  percent rose
+0.6629068462401796  percent fell
+17010 810
+
+Generating data for LRCETH
+0.37053872053872056  percent rose
+0.6294612794612795  percent fell
+17010 810
+
+Generating data for QTUMBTC
+0.5728956228956229  percent rose
+0.4271043771043771  percent fell
+17010 810
+
+Generating data for YOYOBTC
+0.9709315375982043  percent rose
+0.029068462401795735  percent fell
+17010 810
+
+Generating data for OMGBTC
+0.33933782267115603  percent rose
+0.660662177328844  percent fell
+17010 810
+
+Generating data for OMGETH
+0.23681257014590348  percent rose
+0.7631874298540965  percent fell
+17010 810
+
+Generating data for ZRXBTC
+0.16464646464646465  percent rose
+0.8353535353535354  percent fell
+17010 810
+
+Generating data for ZRXETH
+0.19130190796857463  percent rose
+0.8086980920314254  percent fell
+17010 810
+
+Generating data for STRATBTC
+0.6214365881032548  percent rose
+0.37856341189674525  percent fell
+17010 810
+
+['E', 'T', 'H', 'B', 'T', 'C', 'L', 'T', 'C', 'B', 'T', 'C', 'B', 'N', 'B', 'B', 'T', 'C', 'N', 'E', 'O', 'B', 'T', 'C', 'Q', 'T', 'U', 'M', 'E', 'T', 'H', 'E', 'O', 'S', 'E', 'T', 'H', 'S', 'N', 'T', 'E', 'T', 'H', 'B', 'N', 'T', 'E', 'T', 'H', 'B', 'C', 'C', 'B', 'T', 'C', 'G', 'A', 'S', 'B', 'T', 'C', 'B', 'N', 'B', 'E', 'T', 'H', 'B', 'T', 'C', 'U', 'S', 'D', 'T', 'E', 'T', 'H', 'U', 'S', 'D', 'T', 'H', 'S', 'R', 'B', 'T', 'C', 'O', 'A', 'X', 'E', 'T', 'H', 'D', 'N', 'T', 'E', 'T', 'H', 'M', 'C', 'O', 'E', 'T', 'H', 'I', 'C', 'N', 'E', 'T', 'H', 'M', 'C', 'O', 'B', 'T', 'C', 'W', 'T', 'C', 'B', 'T', 'C', 'W', 'T', 'C', 'E', 'T', 'H', 'L', 'R', 'C', 'B', 'T', 'C', 'L', 'R', 'C', 'E', 'T', 'H', 'Q', 'T', 'U', 'M', 'B', 'T', 'C', 'Y', 'O', 'Y', 'O', 'B', 'T', 'C', 'O', 'M', 'G', 'B', 'T', 'C', 'O', 'M', 'G', 'E', 'T', 'H', 'Z', 'R', 'X', 'B', 'T', 'C', 'Z', 'R', 'X', 'E', 'T', 'H', 'S', 'T', 'R', 'A', 'T', 'B', 'T', 'C']
+[Finished in 5752.2s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.0 120
+
+
+Generating data for ETHBTC
+0.13137626262626262  percent rose
+0.8686237373737373  percent fell
+Average difference after 120 minutes  1.000233273384322
+Overall average difference after 120 minutes  1.000233273384322
+15120 720
+
+Generating data for LTCBTC
+0.17367424242424243  percent rose
+0.8263257575757575  percent fell
+Average difference after 120 minutes  0.9995121591925247
+Overall average difference after 120 minutes  0.9998727162884279
+15120 720
+
+Generating data for BNBBTC
+0.2686868686868687  percent rose
+0.7313131313131314  percent fell
+Average difference after 120 minutes  0.9996028910816863
+Overall average difference after 120 minutes  0.9997827745528318
+15120 720
+
+Generating data for NEOBTC
+0.33693181818181817  percent rose
+0.6630681818181818  percent fell
+Average difference after 120 minutes  1.0026788533952042
+Overall average difference after 120 minutes  1.0005067942634323
+15120 720
+
+Generating data for QTUMETH
+0.2380050505050505  percent rose
+0.7619949494949495  percent fell
+Average difference after 120 minutes  1.0009378786992416
+Overall average difference after 120 minutes  1.000593011150646
+15120 720
+
+Generating data for EOSETH
+0.42967171717171715  percent rose
+0.5703282828282829  percent fell
+Average difference after 120 minutes  0.9996711100182454
+Overall average difference after 120 minutes  1.0004393609619164
+15120 720
+
+Generating data for SNTETH
+0.3618686868686869  percent rose
+0.6381313131313131  percent fell
+Average difference after 120 minutes  0.9969993815827854
+Overall average difference after 120 minutes  0.9999479353363199
+15120 720
+
+Generating data for BNTETH
+0.014962121212121211  percent rose
+0.9850378787878787  percent fell
+Average difference after 120 minutes  0.9989936737657759
+Overall average difference after 120 minutes  0.9998286526399018
+15120 720
+
+Generating data for BCCBTC
+0.27765151515151515  percent rose
+0.7223484848484848  percent fell
+Average difference after 120 minutes  1.0007470844119046
+Overall average difference after 120 minutes  0.9999307006145699
+15120 720
+
+Generating data for GASBTC
+0.21313131313131314  percent rose
+0.7868686868686868  percent fell
+Average difference after 120 minutes  1.0022174323802273
+Overall average difference after 120 minutes  1.0001593737911483
+15120 720
+
+['E', 'T', 'H', 'B', 'T', 'C', 'L', 'T', 'C', 'B', 'T', 'C', 'B', 'N', 'B', 'B', 'T', 'C', 'N', 'E', 'O', 'B', 'T', 'C', 'Q', 'T', 'U', 'M', 'E', 'T', 'H', 'E', 'O', 'S', 'E', 'T', 'H', 'S', 'N', 'T', 'E', 'T', 'H', 'B', 'N', 'T', 'E', 'T', 'H', 'B', 'C', 'C', 'B', 'T', 'C', 'G', 'A', 'S', 'B', 'T', 'C']
+[Finished in 1701.5s]
+
+
+
+
+
+
+Generating data for BNBETH
+0.3662247474747475  percent rose
+0.6337752525252526  percent fell
+Average difference after 120 minutes  0.9994587458709522
+Overall average difference after 120 minutes  0.9994587458709522
+15120 720
+
+Generating data for BTCUSDT
+0.17537878787878788  percent rose
+0.8246212121212121  percent fell
+Average difference after 120 minutes  0.9996654897562764
+Overall average difference after 120 minutes  0.9995621178136147
+15120 720
+
+Generating data for ETHUSDT
+0.1962121212121212  percent rose
+0.8037878787878788  percent fell
+Average difference after 120 minutes  0.9995425213455771
+Overall average difference after 120 minutes  0.9995555856576683
+15120 720
+
+Generating data for HSRBTC
+0.3472222222222222  percent rose
+0.6527777777777778  percent fell
+Average difference after 120 minutes  0.9991611755067882
+Overall average difference after 120 minutes  0.9994569831199436
+15120 720
+
+Generating data for OAXETH
+0.5853535353535354  percent rose
+0.41464646464646465  percent fell
+Average difference after 120 minutes  0.9978574188869246
+Overall average difference after 120 minutes  0.9991370702733217
+15120 720
+
+Generating data for DNTETH
+0.2481060606060606  percent rose
+0.7518939393939394  percent fell
+Average difference after 120 minutes  0.999927875194188
+Overall average difference after 120 minutes  0.9992688710934748
+15120 720
+
+Generating data for MCOETH
+0.5919823232323232  percent rose
+0.40801767676767675  percent fell
+Average difference after 120 minutes  1.0006733154669007
+Overall average difference after 120 minutes  0.9994695060039797
+15120 720
+
+Generating data for ICNETH
+0.37487373737373736  percent rose
+0.6251262626262626  percent fell
+Average difference after 120 minutes  1.0009443919006173
+Overall average difference after 120 minutes  0.9996538667411609
+15120 720
+
+Generating data for MCOBTC
+0.5640782828282829  percent rose
+0.4359217171717172  percent fell
+Average difference after 120 minutes  1.000044200272835
+Overall average difference after 120 minutes  0.9996972371335932
+15120 720
+
+Generating data for WTCBTC
+0.48055555555555557  percent rose
+0.5194444444444445  percent fell
+Average difference after 120 minutes  1.0004066364913695
+Overall average difference after 120 minutes  0.9997681770693416
+15120 720
+
+Generating data for WTCETH
+0.46275252525252525  percent rose
+0.5372474747474747  percent fell
+Average difference after 120 minutes  1.00085878081049
+Overall average difference after 120 minutes  0.9998673228640228
+15120 720
+
+Generating data for LRCBTC
+0.47859848484848483  percent rose
+0.5214015151515151  percent fell
+Average difference after 120 minutes  1.0006858818153674
+Overall average difference after 120 minutes  0.9999355361100285
+15120 720
+
+Generating data for LRCETH
+0.6325757575757576  percent rose
+0.36742424242424243  percent fell
+Average difference after 120 minutes  1.001145109952487
+Overall average difference after 120 minutes  1.000028580251774
+15120 720
+
+Generating data for QTUMBTC
+0.20132575757575757  percent rose
+0.7986742424242425  percent fell
+Average difference after 120 minutes  1.001000709905232
+Overall average difference after 120 minutes  1.0000980180841545
+15120 720
+
+Generating data for YOYOBTC
+0.5559343434343434  percent rose
+0.44406565656565655  percent fell
+Average difference after 120 minutes  1.0027593433314963
+Overall average difference after 120 minutes  1.0002754397673272
+15120 720
+
+Generating data for OMGBTC
+0.3522727272727273  percent rose
+0.6477272727272727  percent fell
+Average difference after 120 minutes  1.0030047787260097
+Overall average difference after 120 minutes  1.0004460234522685
+15120 720
+
+Generating data for OMGETH
+0.3880050505050505  percent rose
+0.6119949494949495  percent fell
+Average difference after 120 minutes  1.0036086014716765
+Overall average difference after 120 minutes  1.0006320574533976
+15120 720
+
+Generating data for ZRXBTC
+0.3443181818181818  percent rose
+0.6556818181818181  percent fell
+Average difference after 120 minutes  0.9969840064103753
+Overall average difference after 120 minutes  1.000429387950972
+15120 720
+
+Generating data for ZRXETH
+0.3645833333333333  percent rose
+0.6354166666666666  percent fell
+Average difference after 120 minutes  0.997441201732401
+Overall average difference after 120 minutes  1.0002721149920974
+15120 720
+
+Generating data for STRATBTC
+0.27140151515151517  percent rose
+0.7285984848484849  percent fell
+Average difference after 120 minutes  1.0007608797288992
+Overall average difference after 120 minutes  1.000296553228994
+15120 720
+
+['B', 'N', 'B', 'E', 'T', 'H', 'B', 'T', 'C', 'U', 'S', 'D', 'T', 'E', 'T', 'H', 'U', 'S', 'D', 'T', 'H', 'S', 'R', 'B', 'T', 'C', 'O', 'A', 'X', 'E', 'T', 'H', 'D', 'N', 'T', 'E', 'T', 'H', 'M', 'C', 'O', 'E', 'T', 'H', 'I', 'C', 'N', 'E', 'T', 'H', 'M', 'C', 'O', 'B', 'T', 'C', 'W', 'T', 'C', 'B', 'T', 'C', 'W', 'T', 'C', 'E', 'T', 'H', 'L', 'R', 'C', 'B', 'T', 'C', 'L', 'R', 'C', 'E', 'T', 'H', 'Q', 'T', 'U', 'M', 'B', 'T', 'C', 'Y', 'O', 'Y', 'O', 'B', 'T', 'C', 'O', 'M', 'G', 'B', 'T', 'C', 'O', 'M', 'G', 'E', 'T', 'H', 'Z', 'R', 'X', 'B', 'T', 'C', 'Z', 'R', 'X', 'E', 'T', 'H', 'S', 'T', 'R', 'A', 'T', 'B', 'T', 'C']
+[Finished in 3712.2s]

@@ -1,0 +1,520 @@
+0.25
+
+
+
+
+RNN HAS BEGUN LEARNING OH GOD
+
+Symbol :  ETHBTC
+Test set now has  1620  sets
+Epoch 0 completed out of 5 loss: 69.65127762803118
+Epoch 1 completed out of 5 loss: 39.65904808919731
+Epoch 2 completed out of 5 loss: 33.27891993126832
+Epoch 3 completed out of 5 loss: 31.27126641664654
+Epoch 4 completed out of 5 loss: 31.801646312931553
+
+Symbol :  LTCBTC
+Test set now has  2430  sets
+Epoch 0 completed out of 5 loss: 131.83384037017822
+Epoch 1 completed out of 5 loss: 123.86940458416939
+Epoch 2 completed out of 5 loss: 122.33065643906593
+Epoch 3 completed out of 5 loss: 121.47597193717957
+Epoch 4 completed out of 5 loss: 120.88099375367165
+
+Symbol :  BNBBTC
+Test set now has  3240  sets
+Epoch 0 completed out of 5 loss: 105.29599507153034
+Epoch 1 completed out of 5 loss: 103.90599501132965
+Epoch 2 completed out of 5 loss: 103.84240806102753
+Epoch 3 completed out of 5 loss: 103.7712755203247
+Epoch 4 completed out of 5 loss: 103.69546675682068
+
+Symbol :  NEOBTC
+Test set now has  4050  sets
+Epoch 0 completed out of 5 loss: 43.961287654936314
+Epoch 1 completed out of 5 loss: 46.33684293553233
+Epoch 2 completed out of 5 loss: 45.81899690441787
+Epoch 3 completed out of 5 loss: 49.28464005794376
+Epoch 4 completed out of 5 loss: 46.495389588177204
+
+Symbol :  QTUMETH
+Test set now has  4860  sets
+Epoch 0 completed out of 5 loss: 124.39111249148846
+Epoch 1 completed out of 5 loss: 119.5645821094513
+Epoch 2 completed out of 5 loss: 119.37191867828369
+Epoch 3 completed out of 5 loss: 119.2581444978714
+Epoch 4 completed out of 5 loss: 119.16957575082779
+
+Symbol :  EOSETH
+Test set now has  5670  sets
+Epoch 0 completed out of 5 loss: 119.78456073999405
+Epoch 1 completed out of 5 loss: 119.573859333992
+Epoch 2 completed out of 5 loss: 119.41944694519043
+Epoch 3 completed out of 5 loss: 119.29052609205246
+Epoch 4 completed out of 5 loss: 119.18067353963852
+
+Symbol :  SNTETH
+Test set now has  6480  sets
+Epoch 0 completed out of 5 loss: 114.49273243546486
+Epoch 1 completed out of 5 loss: 114.26102527976036
+Epoch 2 completed out of 5 loss: 114.25995591282845
+Epoch 3 completed out of 5 loss: 114.25808158516884
+Epoch 4 completed out of 5 loss: 114.25464621186256
+
+Symbol :  BNTETH
+Test set now has  7290  sets
+Epoch 0 completed out of 5 loss: 118.13448676466942
+Epoch 1 completed out of 5 loss: 118.18599462509155
+Epoch 2 completed out of 5 loss: 118.15509176254272
+Epoch 3 completed out of 5 loss: 118.19164675474167
+Epoch 4 completed out of 5 loss: 118.10669595003128
+
+Symbol :  BCCBTC
+Test set now has  8100  sets
+Epoch 0 completed out of 5 loss: 69.61400327458978
+Epoch 1 completed out of 5 loss: 65.05318415164948
+Epoch 2 completed out of 5 loss: 64.7324747890234
+Epoch 3 completed out of 5 loss: 64.64628783613443
+Epoch 4 completed out of 5 loss: 64.60750465095043
+
+Symbol :  GASBTC
+Test set now has  8910  sets
+Epoch 0 completed out of 5 loss: 64.18237103521824
+Epoch 1 completed out of 5 loss: 64.58069984614849
+Epoch 2 completed out of 5 loss: 64.77347487211227
+Epoch 3 completed out of 5 loss: 65.17551447451115
+Epoch 4 completed out of 5 loss: 65.00116582214832
+
+Symbol :  BNBETH
+Test set now has  9720  sets
+Epoch 0 completed out of 5 loss: 102.2850329130888
+Epoch 1 completed out of 5 loss: 100.91182664036751
+Epoch 2 completed out of 5 loss: 100.89522233605385
+Epoch 3 completed out of 5 loss: 100.88642585277557
+Epoch 4 completed out of 5 loss: 100.87859120965004
+
+Symbol :  BTCUSDT
+Test set now has  10530  sets
+Epoch 0 completed out of 5 loss: 80.25450876355171
+Epoch 1 completed out of 5 loss: 80.68123215436935
+Epoch 2 completed out of 5 loss: 80.61357389390469
+Epoch 3 completed out of 5 loss: 80.59065315127373
+Epoch 4 completed out of 5 loss: 80.56068529188633
+
+Symbol :  ETHUSDT
+Test set now has  11340  sets
+Epoch 0 completed out of 5 loss: 89.59283043444157
+Epoch 1 completed out of 5 loss: 89.46317654848099
+Epoch 2 completed out of 5 loss: 89.42605775594711
+Epoch 3 completed out of 5 loss: 89.41073454916477
+Epoch 4 completed out of 5 loss: 89.39134269952774
+
+Symbol :  HSRBTC
+Test set now has  12150  sets
+Epoch 0 completed out of 5 loss: 42.45292756706476
+Epoch 1 completed out of 5 loss: 42.778530176728964
+Epoch 2 completed out of 5 loss: 42.704485692083836
+Epoch 3 completed out of 5 loss: 42.72098774090409
+Epoch 4 completed out of 5 loss: 42.69976583123207
+
+Symbol :  OAXETH
+Test set now has  12960  sets
+Epoch 0 completed out of 5 loss: 152.68855736367402
+Epoch 1 completed out of 5 loss: 113.66649159789085
+Epoch 2 completed out of 5 loss: 113.13409864902496
+Epoch 3 completed out of 5 loss: 112.8871311545372
+Epoch 4 completed out of 5 loss: 112.73766660690308
+
+Symbol :  DNTETH
+Test set now has  13770  sets
+Epoch 0 completed out of 5 loss: 107.76484629511833
+Epoch 1 completed out of 5 loss: 104.79311463236809
+Epoch 2 completed out of 5 loss: 104.72047805786133
+Epoch 3 completed out of 5 loss: 104.6582807302475
+Epoch 4 completed out of 5 loss: 104.60086962580681
+
+Symbol :  MCOETH
+Test set now has  14580  sets
+Epoch 0 completed out of 5 loss: 110.26799836754799
+Epoch 1 completed out of 5 loss: 109.87403789162636
+Epoch 2 completed out of 5 loss: 109.75449904799461
+Epoch 3 completed out of 5 loss: 109.62634694576263
+Epoch 4 completed out of 5 loss: 109.48290053009987
+
+Symbol :  ICNETH
+Test set now has  15390  sets
+Epoch 0 completed out of 5 loss: 83.1877902597189
+Epoch 1 completed out of 5 loss: 83.81451140344143
+Epoch 2 completed out of 5 loss: 83.70661579072475
+Epoch 3 completed out of 5 loss: 83.677100867033
+Epoch 4 completed out of 5 loss: 83.66079290211201
+
+Symbol :  MCOBTC
+Test set now has  16200  sets
+Epoch 0 completed out of 5 loss: 44.29422430694103
+Epoch 1 completed out of 5 loss: 45.834270127117634
+Epoch 2 completed out of 5 loss: 46.33857921510935
+Epoch 3 completed out of 5 loss: 46.69622444733977
+Epoch 4 completed out of 5 loss: 46.70763725787401
+
+Symbol :  WTCBTC
+Test set now has  17010  sets
+Epoch 0 completed out of 5 loss: 120.45595617592335
+Epoch 1 completed out of 5 loss: 114.44934737682343
+Epoch 2 completed out of 5 loss: 114.23198473453522
+Epoch 3 completed out of 5 loss: 114.06580090522766
+Epoch 4 completed out of 5 loss: 113.89800453186035
+Accuracy: 0.4862353
+Saving
+[Finished in 6452.9s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+RNN HAS BEGUN LEARNING OH GOD
+
+Symbol :  ETHBTC
+Test set now has  1620  sets
+Epoch 0 completed out of 2 loss: 72.30647067700681
+Epoch 1 completed out of 2 loss: 42.930006935974234
+
+Symbol :  LTCBTC
+Test set now has  2430  sets
+Epoch 0 completed out of 2 loss: 167.43247898295522
+Epoch 1 completed out of 2 loss: 129.41875928640366
+
+Symbol :  BNBBTC
+Test set now has  3240  sets
+Epoch 0 completed out of 2 loss: 109.28768762946129
+Epoch 1 completed out of 2 loss: 107.59723138809204
+
+Symbol :  NEOBTC
+Test set now has  4050  sets
+Epoch 0 completed out of 2 loss: 44.19830001145601
+Epoch 1 completed out of 2 loss: 46.325475849211216
+
+Symbol :  QTUMETH
+Test set now has  4860  sets
+Epoch 0 completed out of 2 loss: 130.53997126221657
+Epoch 1 completed out of 2 loss: 125.3051038980484
+
+Symbol :  EOSETH
+Test set now has  5670  sets
+Epoch 0 completed out of 2 loss: 124.75107288360596
+Epoch 1 completed out of 2 loss: 124.45548284053802
+
+Symbol :  SNTETH
+Test set now has  6480  sets
+Epoch 0 completed out of 2 loss: 117.42451655864716
+Epoch 1 completed out of 2 loss: 116.9502634704113
+
+Symbol :  BNTETH
+Test set now has  7290  sets
+Epoch 0 completed out of 2 loss: 122.70216366648674
+Epoch 1 completed out of 2 loss: 123.0413489639759
+
+Symbol :  BCCBTC
+Test set now has  8100  sets
+Epoch 0 completed out of 2 loss: 66.82082749158144
+Epoch 1 completed out of 2 loss: 66.24776764959097
+
+Symbol :  GASBTC
+Test set now has  8910  sets
+Epoch 0 completed out of 2 loss: 64.59482973068953
+Epoch 1 completed out of 2 loss: 64.96593296527863
+
+Symbol :  BNBETH
+Test set now has  9720  sets
+Epoch 0 completed out of 2 loss: 104.48094768822193
+Epoch 1 completed out of 2 loss: 102.98701965808868
+
+Symbol :  BTCUSDT
+Test set now has  10530  sets
+Epoch 0 completed out of 2 loss: 81.71859841048717
+Epoch 1 completed out of 2 loss: 82.44071480631828
+
+Symbol :  ETHUSDT
+Test set now has  11340  sets
+Epoch 0 completed out of 2 loss: 92.50928762555122
+Epoch 1 completed out of 2 loss: 92.53718112409115
+
+Symbol :  HSRBTC
+Test set now has  12150  sets
+Epoch 0 completed out of 2 loss: 42.82577898725867
+Epoch 1 completed out of 2 loss: 43.56398392096162
+
+Symbol :  OAXETH
+Test set now has  12960  sets
+Epoch 0 completed out of 2 loss: 123.74979756772518
+Epoch 1 completed out of 2 loss: 117.63166218996048
+
+Symbol :  DNTETH
+Test set now has  13770  sets
+Epoch 0 completed out of 2 loss: 111.25753961503506
+Epoch 1 completed out of 2 loss: 109.42931523919106
+
+Symbol :  MCOETH
+Test set now has  14580  sets
+Epoch 0 completed out of 2 loss: 116.29159697890282
+Epoch 1 completed out of 2 loss: 115.6768848001957
+
+Symbol :  ICNETH
+Test set now has  15390  sets
+Epoch 0 completed out of 2 loss: 83.38859720528126
+Epoch 1 completed out of 2 loss: 84.20525895059109
+
+Symbol :  MCOBTC
+Test set now has  16200  sets
+Epoch 0 completed out of 2 loss: 44.66623651981354
+Epoch 1 completed out of 2 loss: 46.05596385151148
+
+Symbol :  WTCBTC
+Test set now has  17010  sets
+Epoch 0 completed out of 2 loss: 123.20794452726841
+Epoch 1 completed out of 2 loss: 117.91846239566803
+
+Symbol :  WTCETH
+Test set now has  17820  sets
+Epoch 0 completed out of 2 loss: 114.50839066505432
+Epoch 1 completed out of 2 loss: 114.2136786878109
+
+Symbol :  LRCBTC
+Test set now has  18630  sets
+Epoch 0 completed out of 2 loss: 30.494352953508496
+Epoch 1 completed out of 2 loss: 32.41564288362861
+
+Symbol :  LRCETH
+Test set now has  19440  sets
+Epoch 0 completed out of 2 loss: 49.09770108386874
+Epoch 1 completed out of 2 loss: 48.71318246424198
+
+Symbol :  QTUMBTC
+Test set now has  20250  sets
+Epoch 0 completed out of 2 loss: 125.26303595304489
+Epoch 1 completed out of 2 loss: 121.0258894264698
+
+Symbol :  YOYOBTC
+Test set now has  21060  sets
+Epoch 0 completed out of 2 loss: 116.92311656475067
+Epoch 1 completed out of 2 loss: 117.32430773973465
+
+Symbol :  OMGBTC
+Test set now has  21870  sets
+Epoch 0 completed out of 2 loss: 108.24184024333954
+Epoch 1 completed out of 2 loss: 106.1403358578682
+
+Symbol :  OMGETH
+Test set now has  22680  sets
+Epoch 0 completed out of 2 loss: 111.37612733244896
+Epoch 1 completed out of 2 loss: 110.84682777523994
+
+Symbol :  ZRXBTC
+Test set now has  23490  sets
+Epoch 0 completed out of 2 loss: 118.55820804834366
+Epoch 1 completed out of 2 loss: 118.6470518708229
+
+Symbol :  ZRXETH
+Test set now has  24300  sets
+Epoch 0 completed out of 2 loss: 117.20615166425705
+Epoch 1 completed out of 2 loss: 116.934416949749
+
+Symbol :  STRATBTC
+Test set now has  25110  sets
+Epoch 0 completed out of 2 loss: 51.32162978500128
+Epoch 1 completed out of 2 loss: 51.77312400192022
+Accuracy: 0.5368924
+Saving
+[Finished in 6478.0s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15 30
+
+RNN HAS BEGUN LEARNING OH GOD
+
+Symbol :  ETHBTC
+Test set now has  1620  sets
+Epoch 0 completed out of 2 loss: 113.01686608394041
+Epoch 1 completed out of 2 loss: 106.29373927738011
+
+Symbol :  LTCBTC
+Test set now has  2430  sets
+Epoch 0 completed out of 2 loss: 314.007939827154
+Epoch 1 completed out of 2 loss: 168.7051251679659
+
+Symbol :  BNBBTC
+Test set now has  3240  sets
+Epoch 0 completed out of 2 loss: 129.88849930278957
+Epoch 1 completed out of 2 loss: 125.53010867536068
+
+Symbol :  NEOBTC
+Test set now has  4050  sets
+Epoch 0 completed out of 2 loss: 51.056120245484635
+Epoch 1 completed out of 2 loss: 54.43201110098744
+
+Symbol :  QTUMETH
+Test set now has  4860  sets
+Epoch 0 completed out of 2 loss: 148.7087301015854
+Epoch 1 completed out of 2 loss: 142.99874478578568
+
+Symbol :  EOSETH
+Test set now has  5670  sets
+Epoch 0 completed out of 2 loss: 148.29739835858345
+Epoch 1 completed out of 2 loss: 146.3780761361122
+
+Symbol :  SNTETH
+Test set now has  6480  sets
+Epoch 0 completed out of 2 loss: 119.32980170845985
+Epoch 1 completed out of 2 loss: 118.25390908122063
+
+Symbol :  BNTETH
+Test set now has  7290  sets
+Epoch 0 completed out of 2 loss: 128.88668152689934
+Epoch 1 completed out of 2 loss: 129.77688963711262
+
+Symbol :  BCCBTC
+Test set now has  8100  sets
+Epoch 0 completed out of 2 loss: 67.89122309908271
+Epoch 1 completed out of 2 loss: 68.92954965680838
+
+Symbol :  GASBTC
+Test set now has  8910  sets
+Epoch 0 completed out of 2 loss: 69.60981308482587
+Epoch 1 completed out of 2 loss: 71.36734302062541
+
+Symbol :  BNBETH
+Test set now has  9720  sets
+Epoch 0 completed out of 2 loss: 105.62521994113922
+Epoch 1 completed out of 2 loss: 104.44463297724724
+
+Symbol :  BTCUSDT
+Test set now has  10530  sets
+Epoch 0 completed out of 2 loss: 87.07597079128027
+Epoch 1 completed out of 2 loss: 89.12192069739103
+
+Symbol :  ETHUSDT
+Test set now has  11340  sets
+Epoch 0 completed out of 2 loss: 100.33066518604755
+Epoch 1 completed out of 2 loss: 100.35226977802813
+
+Symbol :  HSRBTC
+Test set now has  12150  sets
+Epoch 0 completed out of 2 loss: 42.86690100841224
+Epoch 1 completed out of 2 loss: 44.430101757869124
+
+Symbol :  OAXETH
+Test set now has  12960  sets
+Epoch 0 completed out of 2 loss: 127.33302342891693
+Epoch 1 completed out of 2 loss: 125.74836926162243
+
+Symbol :  DNTETH
+Test set now has  13770  sets
+Epoch 0 completed out of 2 loss: 116.75991621613503
+Epoch 1 completed out of 2 loss: 115.77754414081573
+
+Symbol :  MCOETH
+Test set now has  14580  sets
+Epoch 0 completed out of 2 loss: 123.43347585201263
+Epoch 1 completed out of 2 loss: 121.75709557533264
+
+Symbol :  ICNETH
+Test set now has  15390  sets
+Epoch 0 completed out of 2 loss: 85.48742596805096
+Epoch 1 completed out of 2 loss: 87.37393025308847
+
+Symbol :  MCOBTC
+Test set now has  16200  sets
+Epoch 0 completed out of 2 loss: 45.630869504995644
+Epoch 1 completed out of 2 loss: 48.84340321738273
+
+Symbol :  WTCBTC
+Test set now has  17010  sets
+Epoch 0 completed out of 2 loss: 125.3746303319931
+Epoch 1 completed out of 2 loss: 120.35582286119461
+
+Symbol :  WTCETH
+Test set now has  17820  sets
+Epoch 0 completed out of 2 loss: 118.94349524378777
+Epoch 1 completed out of 2 loss: 118.68905779719353
+
+Symbol :  LRCBTC
+Test set now has  18630  sets
+Epoch 0 completed out of 2 loss: 29.05368478782475
+Epoch 1 completed out of 2 loss: 32.480694837868214
+
+Symbol :  LRCETH
+Test set now has  19440  sets
+Epoch 0 completed out of 2 loss: 51.37203418742865
+Epoch 1 completed out of 2 loss: 49.76480986457318
+
+Symbol :  QTUMBTC
+Test set now has  20250  sets
+Epoch 0 completed out of 2 loss: 132.98635947704315
+Epoch 1 completed out of 2 loss: 132.85826614499092
+
+Symbol :  YOYOBTC
+Test set now has  21060  sets
+Epoch 0 completed out of 2 loss: 119.36818847060204
+Epoch 1 completed out of 2 loss: 117.18428963422775
+
+Symbol :  OMGBTC
+Test set now has  21870  sets
+Epoch 0 completed out of 2 loss: 114.6704765483737
+Epoch 1 completed out of 2 loss: 114.92879531532526
+
+Symbol :  OMGETH
+Test set now has  22680  sets
+Epoch 0 completed out of 2 loss: 120.22434027493
+Epoch 1 completed out of 2 loss: 119.30102662742138
+
+Symbol :  ZRXBTC
+Test set now has  23490  sets
+Epoch 0 completed out of 2 loss: 123.52194088697433
+Epoch 1 completed out of 2 loss: 123.76350989937782
+
+Symbol :  ZRXETH
+Test set now has  24300  sets
+Epoch 0 completed out of 2 loss: 119.81760001182556
+Epoch 1 completed out of 2 loss: 119.15829649567604
+
+Symbol :  STRATBTC
+Test set now has  25110  sets
+Epoch 0 completed out of 2 loss: 50.672699347138405
+Epoch 1 completed out of 2 loss: 51.54097996279597
+Accuracy: 0.5428287
+Saving
+[Finished in 8912.7s]
